@@ -1,0 +1,1 @@
+"C:\Users\victu\OneDrive\Documents\Generative AI campusX\langgraph learn\myenv\Scripts\python.exe" -m streamlit run streamlit_frontend.py
